@@ -1,4 +1,4 @@
-# 🤖 Mentoria QA Automação
+#  Mentoria QA Automação
 
 Projeto de automação de testes end-to-end utilizando Robot Framework com Selenium, seguindo o padrão Page Object Model (POM).
 
