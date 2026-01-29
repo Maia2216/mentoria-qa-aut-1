@@ -9,7 +9,7 @@ Este projeto implementa testes automatizados para validar o fluxo de compra em u
 - Navegação entre páginas de produtos
 - Gestão do carrinho de compras
 
-## 🏗️ Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 mentoria-qa-aut/
